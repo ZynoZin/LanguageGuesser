@@ -8,7 +8,7 @@ Guesses the language from the text input given
 npm install franc
 ```
 
-## langs
+### langs
 ```sh
 npm install langs
 ```
